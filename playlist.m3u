@@ -1,0 +1,167 @@
+#EXTM3U
+#EXTINF:-1 ,Кинокомедия HD
+http://87.247.44.26/btv/SWM/Kinokomedija/Kinokomedija_1080p_5000kbps.m3u8
+#EXTINF:-1  tvg-logo="http://39dw.only4.tvonly4.tv/ch/106.png",Киносвидание HD
+http://94.154.83.88:10000/kinosvidanie
+#EXTINF:-1 ,Киносвидание HD
+http://87.247.44.26/btv/SWM/Kinosvidanie/Kinosvidanie_1080p_5000kbps.m3u8
+#EXTINF:-1 ,Кинохит
+https://sc.id-tv.kz/Kinohit_hd_38_39.m3u8
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/542.png",КиноХит
+http://188.113.190.12/313/video.m3u8
+#EXTINF:-1 ,Кинопремьера HD
+https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
+#EXTINF:-1 ,Кинопремьера
+https://sc.id-tv.kz/Kinopremiera_hd_38_39.m3u8
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/2834.png",КИНОПОКАЗ HD
+http://87.117.231.9/iptv/6CBBEEKZV5CG3E/9092/index.m3u8
+#EXTINF:-1 ,Русский иллюзион
+http://86.57.178.105:10823
+#EXTINF:-1 ,Наше новое кино
+http://46.34.209.243/btv/SWM/Nashe_novoe_kino/Nashe_novoe_kino_720p_3500kbps.m3u8
+#EXTINF:-1  tvg-logo="http://39dw.only4.tvonly4.tv/ch/0275.png",ЕВРОКИНО
+http://185.97.150.19:8082/164
+#EXTINF:-1 ,НСТ
+http://185.97.150.19:8082/43
+#EXTINF:-1 ,Кино ТВ
+http://31.128.159.41:8080/kinotv/index.m3u8
+#EXTINF:-1 ,Мужское кино
+https://sc.id-tv.kz/Mujskoe_kino_hd_38_39.m3u8
+#EXTINF:-1 ,Мужское кино
+http://87.247.44.26/btv/SWM/MuzhskoyeKinoHD/MuzhskoyeKinoHD_720p_3500kbps.m3u8
+#EXTINF:-1 ,Мужское кино HD
+http://87.247.44.26/btv/SWM/MuzhskoyeKinoHD/MuzhskoyeKinoHD_1080p_5000kbps.m3u8
+#EXTINF:-1 ,Hollywood
+http://212.76.27.27/btv/SWM/Hollywood/Hollywood_576p_2000kbps.m3u8
+#EXTINF:-1 ,TV XXI
+http://188.40.68.167/russia/xxi/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/2407.png",КиноСАТ
+http://188.113.190.12/224/tracks-v1a1/index.m3u8?token=gelow7
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/2403.png",Иллюзион+
+http://188.113.190.12/45/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,Дом Кино Премиум HD
+https://sc.id-tv.kz/domkino_hd_38_39.m3u8
+#EXTINF:-1 ,Дом кино Премиум HD
+http://212.76.27.27/btv/SWM/Dom_kino_Prem/Dom_kino_Prem_1080p_5000kbps.m3u8
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/127.png",TV 1000 HD
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/9235/index.m3u8
+#EXTINF:-1 group-title="http://epg.it999.ru/img/4062.png" tvg-logo="http://epg.it999.ru/img/4062.png",TV1000
+http://iptv.prosto.tv:7000/ch46/video.m3u8
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/125.png",TV 1000 action
+http://188.113.190.12/30/tracks-v1a1/index.m3u8?token=gelow7
+#EXTINF:-1 ,TV1000 Action East
+http://188.113.190.12:80/30/video.m3u8
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/2274.png",TV1000 World kino
+http://31.202.57.42:4022/udp/239.2.4.6:1234
+#EXTINF:-1 ,TV1000 Русское кино
+http://188.113.190.12:80/35/video.m3u8
+#EXTINF:-1 ,VIP MegaHit hd
+http://91.210.24.70:88/tv_vip_megahit_hd/video.m3u8
+#EXTINF:-1 ,VIP Premiere hd
+http://188.113.190.12/201/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,VIP Comedy
+http://185.97.150.19:8082/963
+#EXTINF:-1  tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00320.png",Sony Channel
+http://188.113.190.12/149/video.m3u8
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/935.png",Sony Turbo
+http://188.113.190.12/186/tracks-v1a1/index.m3u8
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/516.png",Sony Sci-Fi
+http://185.97.150.19:8082/232
+#EXTINF:-1 ,первый канал (+1)
+http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_1TV/variant.m3u8?version=2
+#EXTINF:-1 ,первый канал (+1.30)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/bw2000000/variant.m3u8?version=2&offset=-1800
+#EXTINF:-1 ,первый канал (+2)
+http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV_EKT/variant.m3u8?version=2
+#EXTINF:-1 ,первый канал (+2.30)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/bw2000000/variant.m3u8?version=2&offset=-5400
+#EXTINF:-1 ,первый канал (+3)
+http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_OMSK_1TV_OMSKOBL/variant.m3u8?version=2
+#EXTINF:-1 ,первый канал (+3.30)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/bw2000000/variant.m3u8?version=2&offset=-1800
+#EXTINF:-1 ,первый канал (+4)
+http://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R03_1TV_TOMSK_OBL/variant.m3u8?version=2
+#EXTINF:-1 ,первый канал (+4.30)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_6/bw2000000/variant.m3u8?version=2&offset=-5400
+#EXTINF:-1 ,первый канал (+5)
+http://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R03_1TV_BURAT/variant.m3u8?version=2
+#EXTINF:-1 ,первый канал (+5.30)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_6/bw2000000/variant.m3u8?version=2&offset=-1800
+#EXTINF:-1 ,первый канал (+6)
+http://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_PERVIY_ZK/variant.m3u8?version=2
+#EXTINF:-1 ,первый канал (+6.30)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/bw2000000/variant.m3u8?version=2&offset=-5400
+#EXTINF:-1 ,первый канал (+7.30)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/bw2000000/variant.m3u8?version=2&offset=-1800
+#EXTINF:-1 ,первый канал (+8)
+http://s14553.cdn.ngenix.net/hls/CH_R03_OTT_DV_SLIN_1TV_SLIN/variant.m3u8?version=2
+#EXTINF:-1 ,Первый канал
+http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_YARL_1TV/variant.m3u8?version=2
+#EXTINF:-1  tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/70787/2a0000016002f5285d0523e4cf8dbcbc7b51/orig",Первый канал HD
+http://91.192.168.251:5050
+#EXTINF:-1  tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/70787/2a0000016002f5285d0523e4cf8dbcbc7b51/orig",Первый канал hd
+http://185.97.150.19:8082/228
+#EXTINF:-1  tvg-logo="http://pl.ottg.tv:80/icon/5330.png",РТР Планета
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/playlist_3.m3u8
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/984.png",Россия 1 hd
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rhd.smil/chunklist_b1200000.m3u8
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/984.png",Россия 1 HD
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
+#EXTINF:-1 group-title="http://epg.it999.ru/img/2023.png" tvg-logo="http://epg.it999.ru/img/2023.png",Мир HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные",ТВ 3
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 ,Россия 24 HD
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
+#EXTINF:-1  tvg-logo="http://only4.tv/ch/2201.png",НТв hd
+http://185.97.150.19:8082/221
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/2001.png",НТВ hd
+http://87.117.231.9/iptv/6CBBEEKZV5CG3E/9028/index.m3u8
+#EXTINF:-1 ,100% News
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+#EXTINF:-1 ,Global Star
+http://stream2.hardlife.tv:8134/hls-live/hlsGS/_definst_/liveevent/gs.m3u8
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/1612.png",Discovery Channel hd
+http://185.97.150.19:8082/12
+#EXTINF:-1 ,NAT GEO WILD HD
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/102.png",National Geographic hd
+http://185.97.150.19:8082/878
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/2279.png",History
+http://188.113.190.12/189/video.m3u8
+#EXTINF:-1  tvg-logo="http://only4.tv/ch/0205.png",H2 HD
+http://212.76.27.29:80/btv/SWM/History2HD/History2HD_1080p_5000kbps.m3u8
+#EXTINF:-1  tvg-logo="http://www.oreol.tv/img/bober_1.jpg",Бобёр
+http://188.113.190.12/131/video.m3u8
+#EXTINF:-1 ,Загородная жизнь
+http://188.113.190.12/123/video.m3u8
+#EXTINF:-1  tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1571395402939.png",Love Nature
+http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8
+#EXTINF:-1 ,Viasat Nature
+http://188.113.190.12/28/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,Viasat Explore
+http://188.113.190.12/32/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,Viasat History
+http://188.113.190.12/33/video.m3u8
+#EXTINF:-1  tvg-logo="http://pl.ottg.tv:80/icon/6256.png",HD Life
+https://sc.id-tv.kz/hdl_34_35.m3u8
+#EXTINF:-1  tvg-logo="http://pl.ottg.tv:80/icon/6256.png",HD Life hd
+http://87.247.44.25:80/btv/SWM/HDLife/HDLife_1080p_5000kbps.m3u8
+#EXTINF:-1 ,Animal Planet hd
+http://185.97.150.19:8082/35
+#EXTINF:-1 ,Перец
+http://93.189.224.118:9030/peretz?utcstart=986329639912&version=2
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/2101.png",Квартал ТВ HD
+http://87.247.44.24:80/btv/SWM/Kvartal_tv/Kvartal_tv_1080p_5000kbps.m3u8
+#EXTINF:-1 ,ТНТ4
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 ,THT
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 ,CTC
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 ,Суббота
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 ,Пятница
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 ,РЕН ТВ HD
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
